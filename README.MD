@@ -1,12 +1,15 @@
 Airline Delay Performance Analysis Dashboard
+
  Project Overview
+
  The Airline Delay Performance Dashboard is an interactive data visualization project built using Tableau Public.
  This project analyzes airline operational performance by examining flight delays, delay reasons, airline comparisons, and aircraft emissions.
  The dashboard provides valuable insights that help understand patterns, causes of delays, and airline efficiency over time.
+
 Key Insights
   	900+ Total Flights analyzed
-	  126.8 Minutes Average Arrival Delay
-	  99% Delay Rate observed in the dataset
+	126.8 Minutes Average Arrival Delay
+	99% Delay Rate observed in the dataset
 
 The dashboard highlights the following analyses:
 1.	Airline-wise Delay Comparison
